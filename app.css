@@ -125,6 +125,11 @@ main {
         background-color: #d8dce0;
         border-radius: 10px;
         color: #0f172a;
+        box-shadow: 0px 2px 5px #0f172a;
+    }
+
+    .testimonial:hover {
+        box-shadow: 0px 5px 5px #e11d48;
     }
 
     h1 {
